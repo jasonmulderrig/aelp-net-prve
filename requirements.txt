@@ -1,0 +1,5 @@
+hydra-core
+numpy
+scipy
+networkx[default]
+matplotlib
